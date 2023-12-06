@@ -1,0 +1,7 @@
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\bin\Debug\Project.exe.config
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\bin\Debug\Project.exe
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\bin\Debug\Project.pdb
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\obj\Debug\Project.exe
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\projects\Project\Project\obj\Debug\Project.pdb
